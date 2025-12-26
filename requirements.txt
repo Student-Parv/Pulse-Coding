@@ -1,0 +1,4 @@
+playwright
+playwright-stealth
+dateparser
+nest_asyncio
